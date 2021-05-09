@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../Google Drev/Programmering/Skole/CHBackend/Backend.iml" filepath="$PROJECT_DIR$/../../../../../../Google Drev/Programmering/Skole/CHBackend/Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CHFrontEnd/FrontEnd.iml" filepath="$PROJECT_DIR$/../CHFrontEnd/FrontEnd.iml" />
+    </modules>
+  </component>
+</project>
